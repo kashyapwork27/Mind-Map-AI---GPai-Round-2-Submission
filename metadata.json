@@ -1,0 +1,5 @@
+{
+  "name": "AI Mind Map and Logic Diagram GPai Round 2 Submission",
+  "description": "An application that uses the Gemini API to generate and visualize interactive mind maps from a user-provided topic. The mind map is rendered using D3.js for an engaging and dynamic user experience.",
+  "requestFramePermissions": []
+}
